@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: sftp-support
+server:
+  port: 8809
